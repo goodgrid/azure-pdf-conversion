@@ -1,0 +1,7 @@
+{
+  "name": "azure-pdf-conversion",
+  "version": "0.1",
+  "description": "",
+  "main": "start.js",
+  "type": "module"
+}
